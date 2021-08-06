@@ -1,0 +1,9 @@
+
+.loginError{
+    color: red;
+    font-size: 14px;
+}
+
+.loginform{
+    min-width: 1000px;
+}

@@ -1,0 +1,11 @@
+.errortext{
+
+    color: red;
+    font-size: 14px;
+}
+
+.registerform{
+
+    min-width: 1000px;
+    overflow-x: none;
+}
